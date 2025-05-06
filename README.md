@@ -52,3 +52,13 @@ Dashboard includes interactive visuals:
 🧠 Business-friendly interface with filter & drill-down options.
 
 ---
+
+## 📌 Key Insights
+
+- **November–December** show peak activity due to holiday sales.
+- **United Kingdom** contributes >90% of revenue; Germany and Netherlands are next.
+- Products with high unit prices show less volume movement.
+
+📚 Reference
+
+-A heartfelt thanks to Codebasics and their incredible YouTube series on the Online Retail project. While I built and customized the analysis and dashboard on my own, their content served as a great source of inspiration and direction during the early stages. I'm truly grateful for such accessible and insightful learning resources!
