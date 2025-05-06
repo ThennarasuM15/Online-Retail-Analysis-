@@ -59,6 +59,24 @@ Dashboard includes interactive visuals:
 - **United Kingdom** contributes >90% of revenue; Germany and Netherlands are next.
 - Products with high unit prices show less volume movement.
 
+---
+
+📌 How to Use
+🧭 Tableau Dashboard:
+- Download the .twbx file from this GitHub repository
+- Open it using Tableau Public (free) or Tableau Desktop
+- Explore filters, visuals, and KPIs interactively
+- Designed to be intuitive for managers and business users—no technical setup required
+
+🐍 Python Analysis (on Google Colab):
+
+- Download the provided Python Report (PDF) for a step-by-step explanation
+- No need to install Python or download large data files
+- All analysis, cleaning, and outlier handling were done on Google Colab with real-time code execution
+- Ideal for understanding backend logic without technical complexity
+
+---
+
 📚 Reference
 
--A heartfelt thanks to Codebasics and their incredible YouTube series on the Online Retail project. While I built and customized the analysis and dashboard on my own, their content served as a great source of inspiration and direction during the early stages. I'm truly grateful for such accessible and insightful learning resources!
+- A heartfelt thanks to Codebasics and their incredible YouTube series on the Online Retail project. While I built and customized the analysis and dashboard on my own, their content served as a great source of inspiration and direction during the early stages. I'm truly grateful for such accessible and insightful learning resources!
